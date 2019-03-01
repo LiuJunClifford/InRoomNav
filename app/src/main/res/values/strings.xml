@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QRCodeLocate</string>
+    <string name="edit_message">Enter a message here...</string>
+</resources>
